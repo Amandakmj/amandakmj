@@ -1,4 +1,11 @@
 # Amanda Silva <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amandakmj">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Amanda+Silva+&https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif&width=30px;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <div> 
     <a href="https://www.linkedin.com/in/amandasilvaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
