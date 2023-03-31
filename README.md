@@ -30,6 +30,6 @@
 
 ---
 <p align="center">
-<img src="https://github.com/Amandakmj/amandakmj/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/amandakmj/amandakmj/blob/output/github-contribution-grid-snake.svg">
 </p>
 
