@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amanda+Silva;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<body style="background-color:WhiteSmoke;">
 
 <div> 
     <a href="https://www.linkedin.com/in/amandasilvaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
