@@ -62,7 +62,14 @@
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 
 
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
+     
+<p align="center">
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)    
+     
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayankchaudhary26&theme=highcontrast&background=0F0943)](https://git.io/streak-stats) --> 
 ---
 <p align="center">
 <img src="https://github.com/amandakmj/amandakmj/blob/output/github-contribution-grid-snake.svg">
