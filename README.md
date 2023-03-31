@@ -62,6 +62,6 @@
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![amandakmj snake gif](https://github.com/amandakmj/amandakmj/blob/output/github-contribution-grid-snake.svg)      
+![amandakmj snake gif](https://github.com/amandakmj/blob/output/github-contribution-grid-snake.svg)      
      
 <p align="center">
