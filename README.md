@@ -10,11 +10,11 @@
 ## Status ⭐
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=Amandakmj&show_icons=true&theme=monokai" />
+  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=Amandakmj&show_icons=true&theme=dracula" />
 </a> &nbsp; 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandakmj&layout=compact&theme=monokai"/>  
+  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandakmj&layout=compact&theme=dracula"/>  
 </a>
 
 <table align="right">
