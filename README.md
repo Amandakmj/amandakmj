@@ -33,3 +33,4 @@
 <img src="https://github.com/amandakmj/amandakmj/blob/output/github-contribution-grid-snake.svg">
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=amandakmj&pretty=true)](https://visitcount.itsvg.in)
