@@ -61,6 +61,12 @@
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandakmjk&theme=monokai) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandakmj=Html&theme=monokai) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amandakmj&theme=monokai) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandakmj&theme=monokai) | ![](https://github-readme-streak-stats.herokuapp.com/?user=amandakmj_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
      
